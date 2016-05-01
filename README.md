@@ -1,7 +1,8 @@
 ## 概要
 認証APIサーバ  
-TODO: ng_token_auth
-TODO: doorkeeper
+TODO: ng_token_auth  
+TODO: doorkeeper  
+TODO: cancancan  
 
 #### 参考
 [devise_token_authのチュートリアル](http://www.developingandrails.com/2015/02/api-authentication-with-devisetokenauth.html "devise_token_auth tutorial")
