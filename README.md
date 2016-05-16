@@ -5,6 +5,10 @@ Using **Rails** with **devise**,**devise_token_auth**.
 #### Reference
 [devise_token_auth Tutorial](http://www.developingandrails.com/2015/02/api-authentication-with-devisetokenauth.html "devise_token_auth tutorial")
 
+#### Important
+This repository don't have `config/secrets.yml`.
+But, If necessary this file, add this file manually.
+
 #### Getting Start  
 Move directory and execute follow commands in terminal.  
 `$bundle install --path vendor/bundle`  
